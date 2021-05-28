@@ -1,0 +1,5 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.console.closeOnEnd": true,
+    "remote.downloadExtensionsLocally": true
+}
