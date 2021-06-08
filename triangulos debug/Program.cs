@@ -1,7 +1,5 @@
-// Desafios Aritméticos Intermediários em C#
-// Tipos de Triângulos
+﻿using System;
 
-using System;
 
 namespace triangulos_debug{
 
@@ -65,6 +63,10 @@ class Desafio {
             double b2 = ladosTriangulo[1];
             double c2 = ladosTriangulo[2];;
 
+             Console.WriteLine("a: {0:R}", a);
+             Console.WriteLine("b: {0:R}", b);
+             Console.WriteLine("c: {0:R}", c);
+
 // a2 = hipotenusa
 // b2 e c2 = cateto
 
@@ -72,6 +74,13 @@ class Desafio {
             double cateto1 = Math.Pow(b2, 2);
             double cateto2 = Math.Pow(c2, 2);
 
+             Console.WriteLine("a2: {0:R}", a2); 
+             Console.WriteLine("b2: {0:R}", b2);
+             Console.WriteLine("c2: {0:R}", c2);
+             
+             Console.WriteLine("hipotenusa: {0:R}", hipotenusa); 
+             Console.WriteLine("cateto1: {0:R}", cateto1); 
+             Console.WriteLine("cateto2: {0:R}", cateto2); 
 // Nao forma triangulo
 // | b - c | < a < b + c
 // | a - c | < b < a + c
@@ -121,3 +130,4 @@ class Desafio {
         }
 }
 }
+
