@@ -43,3 +43,8 @@ Algumas **IDE´s (Integrated Development Environment - Ambiente de desenvolvimen
 ### Origem do C#
 
 C# Foi desenvolvida pela Microsoft por uma equipe liderada por *Anders Hejlsberg* (responsável também pelo desenvolvimento do Delphi e Turbo Pascal), que inicialmente a denominou como linguagem **Cool**. O desenvolvimento iniciou em 1999 e a linguagem foi lançada em 2002 como parte da plataforma **.NET**.
+
+## https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-c/algorithm/visita-na-feira?back=/track/mrv-net-developer
+
+## https://web.digitalinnovation.one/coding/solucionando-desafios-intermediarios-em-c/algorithm/teste-de-selecao-1?back=/track/mrv-net-developer
+
